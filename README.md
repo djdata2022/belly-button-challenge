@@ -22,5 +22,9 @@ This assignment required the creation of an interactive dashboard to explore the
 7. The app was deployed to a free static page hosting service.
 8. Extra: A Gauge Chart was generated using https://plot.ly/javascript/gauge-charts/Links to show the weekly washing frequency of the individual. The chart also updates whenever a new sample is selected.
 
+## Credit
+I worked with my tutor to create the drop down menu and use the data to update the visualizations.
+
+## Results
 ![App](images/ScreenShot1.png)
 ![App](images/ScreenShot2.png)
